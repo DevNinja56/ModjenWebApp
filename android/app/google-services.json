@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924991320199",
+    "project_id": "modjen-web",
+    "storage_bucket": "modjen-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924991320199:android:46f34825c8e69427184822",
+        "android_client_info": {
+          "package_name": "com.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924991320199-s8btqjic0pp2c5pnq3vuh070grf25kb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5NFHVEGEg46rcA-PpJUXHXnUTgStcTMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924991320199-s8btqjic0pp2c5pnq3vuh070grf25kb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
